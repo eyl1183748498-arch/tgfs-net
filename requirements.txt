@@ -1,0 +1,5 @@
+torch>=2.1
+numpy>=1.24
+h5py>=3.9
+scikit-image>=0.21
+scikit-learn>=1.3
